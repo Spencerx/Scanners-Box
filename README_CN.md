@@ -1650,7 +1650,7 @@
     <img src="https://img.shields.io/github/stars/We5ter/Scanners-Box?style=for-the-badge&logo=github&color=%23a78bfa&label=⭐%20Star" alt="GitHub Stars">
   </a>
   <br/><br/>
-  <img src="https://api.star-history.com/svg?repos=We5ter/Scanners-Box&type=Date&theme=dark" alt="Star History Chart">
+  <img src="https://star-history.dera.page/svg?repos=We5ter/Scanners-Box&type=Date&theme=dark" alt="Star History Chart">
 </p>
 
 
